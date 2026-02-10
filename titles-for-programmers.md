@@ -2,7 +2,7 @@
 
 ## Programming Management
 
-On Web and SIP programming teams, Lead Programmers (L4) and Principal Programmers (L5) act as tech leads to Junior - Senior Programmers (L1-3). All Leads and Principals report directly to our CTO. Tech leads are responsible for:
+On Web, SIP, and Mobile programming teams, Lead Programmers (L4) and Principal Programmers (L5) act as tech leads to Junior - Senior Programmers (L1-3). All Principals report directly to our CTO. Tech leads are responsible for:
 - Reviewing a report's substantial PRs before they're shipped.
 - Having a kick-off conversation with a report on every substantial project.
 - Reviewing a report's on-call work and handoff after every shift.
@@ -10,8 +10,6 @@ On Web and SIP programming teams, Lead Programmers (L4) and Principal Programmer
 - Identifying and escalating slips in performance or process to People Ops.
 
 A tech lead on the SIP team also acts as SIP Coordinator. They're responsible for setting cycle priorities, liaising with other project teams, and maintaining general oversight of team resources.
-
-Our Mobile programming teams (iOS and Android) have 1 manager overseeing both teams who is responsible for technical leadership and people management.
 
 ## Individual Contributor Expectations
 

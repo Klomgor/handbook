@@ -11,7 +11,7 @@ In the United States, medical insurance is provided through Blue Cross Blue Shie
 Each pay period, you’ll see a payroll deduction for medical insurance:
 
 * Employee-only medical coverage: $96.05
-* Employee-partner medical coverage: $197.26
+* Employee-partner medical coverage: $197.27
 * Employee-child(ren) medical coverage: $186.44
 * Employee-family medical coverage: $287.65
 
